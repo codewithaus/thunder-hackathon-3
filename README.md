@@ -61,7 +61,7 @@ reports/system-report.json
 ```text
 THUNDER-HACKATHON/
 │
-├── logs/
+├── logs/  ---> This folder and file will be created automatically for good user experience
 │   └── activity.log
 │
 ├── reports/
